@@ -1,5 +1,6 @@
 /**
  * https://github.com/hadjitejuco/oopTN212
+ * https://github.com/hadjitejuco/oopTN212.git
  * Demonstrate the use variables in Java
  * @author hadjitejuco
  */
